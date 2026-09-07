@@ -1,0 +1,1 @@
+import Icon from './Icon';export default function FeatureCard({icon,title,description,detail}){return <article className="feature-card reveal"><div className="feature-icon"><Icon name={icon}/></div><div><h3>{title}</h3><p>{description}</p><span>{detail}</span></div><Icon name="ArrowUpRight" className="feature-arrow" size={18}/></article>}

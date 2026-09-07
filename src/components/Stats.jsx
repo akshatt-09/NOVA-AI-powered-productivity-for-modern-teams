@@ -1,0 +1,1 @@
+import {stats} from '../data/content';export default function Stats(){return <section className="stats"><div className="container stats-grid">{stats.map(([n,l])=><div className="stat reveal" key={l}><strong>{n}</strong><span>{l}</span></div>)}</div></section>}

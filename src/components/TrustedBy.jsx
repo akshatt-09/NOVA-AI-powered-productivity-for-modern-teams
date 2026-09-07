@@ -1,0 +1,1 @@
+export default function TrustedBy(){return <section className="trusted"><div className="container"><span>Trusted by teams building what’s next</span><div className="logo-strip"><b>VERTEX</b><b>LUMIO</b><b>NORTHSTAR</b><b>ORBIT</b><b>AXIOM</b><b>ELEVATE</b></div></div></section>}
