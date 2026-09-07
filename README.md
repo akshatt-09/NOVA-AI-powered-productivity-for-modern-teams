@@ -86,7 +86,7 @@ Screenshots are intentionally not claimed as existing until they are captured fr
 
 ## Live Demo
 
-Live Demo: [Add deployment URL]
+Live Demo: https://nova-ai-powered-productivity-for-mode.netlify.app/
 
 ## AI Tools Used
 
