@@ -82,7 +82,7 @@ Screenshots are intentionally not claimed as existing until they are captured fr
 ![Desktop Screenshot](./screenshots/desktop.png)
 
 ### Mobile
-![Mobile Screenshot](./screenshots/mobile.png)
+![Mobile Screenshot](screenshots/Mobile.jpeg)
 
 ## Live Demo
 
